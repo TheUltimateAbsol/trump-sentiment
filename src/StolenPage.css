@@ -111,7 +111,7 @@ button, input {
     margin-bottom: 0px;
     font-size: 50px;
     text-align: center;
-    text-shadow: 4px 0 black, 0 -4px black, -4px 0 black, 0 4px black;
+    text-shadow: 4px 0 #000, 0 -4px #000, -4px 0 #000, 0 4px #000, 4px 4px #000, -4px -4px #000, -4px 4px #000, 4px 4px #000;
 }
 
 .question-wrap {
