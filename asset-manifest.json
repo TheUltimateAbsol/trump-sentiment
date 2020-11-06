@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/trump-sentiment/static/css/main.42328f7e.chunk.css",
-    "main.js": "/trump-sentiment/static/js/main.7c7ea8f8.chunk.js",
-    "main.js.map": "/trump-sentiment/static/js/main.7c7ea8f8.chunk.js.map",
-    "runtime-main.js": "/trump-sentiment/static/js/runtime-main.b3e0d561.js",
-    "runtime-main.js.map": "/trump-sentiment/static/js/runtime-main.b3e0d561.js.map",
-    "static/js/2.ed3eaa9a.chunk.js": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js",
-    "static/js/2.ed3eaa9a.chunk.js.map": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js.map",
-    "static/js/3.4e9dad5c.chunk.js": "/trump-sentiment/static/js/3.4e9dad5c.chunk.js",
-    "static/js/3.4e9dad5c.chunk.js.map": "/trump-sentiment/static/js/3.4e9dad5c.chunk.js.map",
-    "index.html": "/trump-sentiment/index.html",
-    "static/css/main.42328f7e.chunk.css.map": "/trump-sentiment/static/css/main.42328f7e.chunk.css.map",
-    "static/js/2.ed3eaa9a.chunk.js.LICENSE.txt": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js.LICENSE.txt",
-    "static/media/StolenPage.css": "/trump-sentiment/static/media/test.506a45c4.otf",
-    "static/media/logo.2d27ead7.svg": "/trump-sentiment/static/media/logo.2d27ead7.svg"
+    "main.css": "/static/css/main.651da151.chunk.css",
+    "main.js": "/static/js/main.a13b1a73.chunk.js",
+    "main.js.map": "/static/js/main.a13b1a73.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.becd3dec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.becd3dec.js.map",
+    "static/js/2.ed3eaa9a.chunk.js": "/static/js/2.ed3eaa9a.chunk.js",
+    "static/js/2.ed3eaa9a.chunk.js.map": "/static/js/2.ed3eaa9a.chunk.js.map",
+    "static/js/3.4e9dad5c.chunk.js": "/static/js/3.4e9dad5c.chunk.js",
+    "static/js/3.4e9dad5c.chunk.js.map": "/static/js/3.4e9dad5c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.651da151.chunk.css.map": "/static/css/main.651da151.chunk.css.map",
+    "static/js/2.ed3eaa9a.chunk.js.LICENSE.txt": "/static/js/2.ed3eaa9a.chunk.js.LICENSE.txt",
+    "static/media/StolenPage.css": "/static/media/test.506a45c4.otf",
+    "static/media/logo.2d27ead7.svg": "/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3e0d561.js",
+    "static/js/runtime-main.becd3dec.js",
     "static/js/2.ed3eaa9a.chunk.js",
-    "static/css/main.42328f7e.chunk.css",
-    "static/js/main.7c7ea8f8.chunk.js"
+    "static/css/main.651da151.chunk.css",
+    "static/js/main.a13b1a73.chunk.js"
   ]
 }
