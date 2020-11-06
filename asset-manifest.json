@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trump-sentiment/static/css/main.fd07c9f2.chunk.css",
+    "main.js": "/trump-sentiment/static/js/main.c2e7295e.chunk.js",
+    "main.js.map": "/trump-sentiment/static/js/main.c2e7295e.chunk.js.map",
+    "runtime-main.js": "/trump-sentiment/static/js/runtime-main.b3e0d561.js",
+    "runtime-main.js.map": "/trump-sentiment/static/js/runtime-main.b3e0d561.js.map",
+    "static/js/2.ed3eaa9a.chunk.js": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js",
+    "static/js/2.ed3eaa9a.chunk.js.map": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js.map",
+    "static/js/3.4e9dad5c.chunk.js": "/trump-sentiment/static/js/3.4e9dad5c.chunk.js",
+    "static/js/3.4e9dad5c.chunk.js.map": "/trump-sentiment/static/js/3.4e9dad5c.chunk.js.map",
+    "index.html": "/trump-sentiment/index.html",
+    "static/css/main.fd07c9f2.chunk.css.map": "/trump-sentiment/static/css/main.fd07c9f2.chunk.css.map",
+    "static/js/2.ed3eaa9a.chunk.js.LICENSE.txt": "/trump-sentiment/static/js/2.ed3eaa9a.chunk.js.LICENSE.txt",
+    "static/media/StolenPage.css": "/trump-sentiment/static/media/test.506a45c4.otf",
+    "static/media/logo.103b5fa1.svg": "/trump-sentiment/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3e0d561.js",
+    "static/js/2.ed3eaa9a.chunk.js",
+    "static/css/main.fd07c9f2.chunk.css",
+    "static/js/main.c2e7295e.chunk.js"
+  ]
+}
