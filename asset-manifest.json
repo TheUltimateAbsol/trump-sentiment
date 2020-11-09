@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.101d6bda.chunk.css",
-    "main.js": "/static/js/main.e3a94b1e.chunk.js",
-    "main.js.map": "/static/js/main.e3a94b1e.chunk.js.map",
+    "main.css": "/static/css/main.81f2d156.chunk.css",
+    "main.js": "/static/js/main.14ba6af8.chunk.js",
+    "main.js.map": "/static/js/main.14ba6af8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.becd3dec.js",
     "runtime-main.js.map": "/static/js/runtime-main.becd3dec.js.map",
     "static/js/2.ed3eaa9a.chunk.js": "/static/js/2.ed3eaa9a.chunk.js",
@@ -10,15 +10,15 @@
     "static/js/3.4e9dad5c.chunk.js": "/static/js/3.4e9dad5c.chunk.js",
     "static/js/3.4e9dad5c.chunk.js.map": "/static/js/3.4e9dad5c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.101d6bda.chunk.css.map": "/static/css/main.101d6bda.chunk.css.map",
+    "static/css/main.81f2d156.chunk.css.map": "/static/css/main.81f2d156.chunk.css.map",
     "static/js/2.ed3eaa9a.chunk.js.LICENSE.txt": "/static/js/2.ed3eaa9a.chunk.js.LICENSE.txt",
     "static/media/StolenPage.css": "/static/media/test.506a45c4.otf",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "static/media/logo.2d27ead7.svg": "/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.becd3dec.js",
     "static/js/2.ed3eaa9a.chunk.js",
-    "static/css/main.101d6bda.chunk.css",
-    "static/js/main.e3a94b1e.chunk.js"
+    "static/css/main.81f2d156.chunk.css",
+    "static/js/main.14ba6af8.chunk.js"
   ]
 }
