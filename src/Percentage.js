@@ -17,7 +17,7 @@ function Percentage(
 
     return (
         <div className='question-wrap'>
-            <div class="question">Do you <span>support</span> Donald Trump?</div>
+            <div class="question">Does Donald Trump <span>really exist</span>?</div>
 
             <div className='bar-wrap'>
                 <div style={{ width: `${value + simplex.noise2D(curSeconds, 0) * .3}%` }}></div>
